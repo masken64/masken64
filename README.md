@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kartik</h1>
+<h1 align="center">Hi I'm Kartik</h1>
 <h3 align="center">Add me on Discord- Masken#2322</h3>
 <img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/897667795033133130/944282767326343188/eat.gif"
 - 📫 How to reach me **shrkartik2001@gmail.com**
