@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Kartik</h1>
 <h3 align="center">Add me on Discord- maskenn_</h3>
-<img align="right" alt="Coding" width="400" src="[https://media.discordapp.net/attachments/885084084244713489/1159097059064938606/k00srat-snoop.gif](https://media.discordapp.net/attachments/885084084244713489/1159097059064938606/k00srat-snoop.gif)"
+<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/885084084244713489/1159097059064938606/k00srat-snoop.gif"
 - 📫 How to reach me **shrkartik2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
