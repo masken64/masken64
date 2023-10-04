@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Kartik</h1>
-<h3 align="center">Add me on Discord- Masken#7291</h3>
-<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/897667795033133130/944282767326343188/eat.gif"
+<h3 align="center">Add me on Discord- maskenn_</h3>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/k00srat-snoop-dogg-dog-smoking-gif-21882844"
 - 📫 How to reach me **shrkartik2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
